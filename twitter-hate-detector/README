@@ -1,0 +1,8 @@
+Problem: Hate speech on social media platforms is a huge concern for many people.  
+Racism, Sexism, and other forms of hate spech has been on the rise recently. How can we help ensure the safety and 
+well-being of everone online and fight back against bigotry.
+
+The first step in battling hate speech is to detect it. In this project I will attempt to build a ML model to detech hateful 
+twitter tweets.
+
+I will use Logistic regression to start with with a goal F-1 score of .95.
